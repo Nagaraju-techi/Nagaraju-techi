@@ -57,7 +57,6 @@
 <h3 align="left">💼 Experience & Certifications</h3>
 
 <ul>
-  <li>🌐 <strong>Web Development Intern</strong> - Oasis Infobyte (June–July 2024)</li>
   <li>🖥️ <strong>Web Dev Intern</strong> - NIT Warangal (Offline Internship)</li>
   <li>☁️ <strong>AWS Cloud Virtual Internship</strong> - AICTE EduSkills (10 Weeks)</li>
   <li>🌐 <strong>Full Stack Dev Virtual Internship</strong> - AICTE EduSkills (10 Weeks)</li>
@@ -97,10 +96,10 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=false" height="200" />
+  <img src="https://streak-stats.demolab.com?user=Nagaraju-techi&theme=dark&hide_border=false" height="200" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagaraju-techi&layout=compact&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nagaraju-techi&show_icons=true&theme=dark&hide_border=true" height="170" />
 </div>
 
 ---
