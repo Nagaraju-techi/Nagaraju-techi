@@ -12,9 +12,8 @@
 ## 👨‍💻 About Me
 
 - 🌱 Learning **Spring Boot, React, Microservices**
-- 💻 Passionate about **Java Full Stack Development**
+- 💻 Passionate about **Full Stack Development**
 - 🧩 Solving problems on LeetCode & GeeksforGeeks
-- 📫 Reach me: **your-email@example.com**
 
 ---
 
